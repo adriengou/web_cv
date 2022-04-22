@@ -1,44 +1,39 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "name": "Adrien Gouacide",
+    "occupation": "Web developper in training at Digifab",
+    "location": "Annemasse, France",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "pronouns": "he/him",
+    "email": "adrien.gouacide@gmail.com",
+    "telephone": "+33 6 36 33 05 57",
+    "website": "https://example.org",
     "skills": [
         "HTML",
         "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "Git",
+        "Github",
+        "Linux"
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "French",
             "level": "native"
         },
         {
-            "name": "German",
+            "name": "English",
             "level": "fluent"
-        },
-        {
-            "name": "French",
-            "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@adriengou",
+            "url": "https://github.com/adriengou"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "Adrien Gouacide",
+            "url": "https://www.linkedin.com/in/adrien-gouacide-92a8b2148/"
         }
     ]
 }
